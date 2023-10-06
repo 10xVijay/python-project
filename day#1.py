@@ -51,7 +51,7 @@ while True:
     elif choise == '3':
         print(num1, "🙃", num2, "=😍", multiply(num1,num2))
 
-    elif choise == '3':
+    elif choise == '4':
         print(num1, '😚', num2, '=😍', div(num1,num2))
 
     next_calculation = input("let's do next calculation (yes/no)😉👍 :")
